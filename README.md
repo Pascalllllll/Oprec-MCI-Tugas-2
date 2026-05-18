@@ -33,7 +33,8 @@ E-Commerce API (96.9.212.102:8000/orders)
 ↻ Seluruh siklus diatur secara otomatis oleh Apache Airflow
 ~~~
 
-** Metrik Analisis Utama (Business Insights):**
+
+**Metrik Analisis Utama (Business Insights):**
 - **Tren Trafik Jam Sibuk (Peak Hours):** Mengidentifikasi jam terjadinya lonjakan pesanan tertinggi.
 - **Distribusi Pesanan per Shift (Time-Slicing):** Persentase volume pesanan berdasarkan shift waktu (Morning, Afternoon, Evening, Late Night).
 - **Total Volume Pesanan:** Kalkulasi kumulatif dari transaksi yang berhasil diproses.
