@@ -2,10 +2,10 @@
 
 
 ##  Anggota Kelompok
-| Nama                   | NRP        |
-| ---------------------- | ---------- |
-| Lyonel Oliver Dwiputra | 5025241145 |
-| Hosea Felix Sanjaya    | 5025241177 |
+| Nama                   | NRP        | Kontribusi |
+| ---------------------- | ---------- | ---------- |
+| Lyonel Oliver Dwiputra | 5025241145 | 50%        |
+| Hosea Felix Sanjaya    | 5025241177 | 50%        |
 
 > **Proyek Tugas Modul 3 Big Data · End-to-End Modern Data Stack Implementation**
 
